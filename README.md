@@ -13,11 +13,11 @@ Follow these steps to set up and start the Vape v4.10:
 
 Git clone this repository or download the source code as a zip file.
 
-Download Java 17.0.6 or higher.
+Download **Java 17.0.6** or higher.
 
-Launch Lunar Client.
+Launch **Lunar Client**.
 
-Launch the vape.bat file.
+Launch the **vape.exe** file.
 
 Enjoy!
 
